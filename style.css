@@ -11,23 +11,30 @@
 }
 
 .brand-img{
-    height: 10rem;
+    height: 13rem;
     border-radius: 50%;
     filter: brightness(0.9);
-}
-.menu {
-    position: relative;
-    top: -4rem;
-    left: 17rem;
-    font-family: 'Raleway', sans-serif;
-    font-size: 1.3rem;
-    font-weight: 600;
 }
 .navbar-brand{
     position: relative;
     top: 7rem;
-    left: -5rem;
+    left: -3rem;
 }
+.menu { 
+    position: relative;
+    top: -3rem;
+    left: 7rem;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
 .menu li{
     padding: 1.5rem;
+}
+.dropdown-menu {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.4rem;
+    color: white;
+    opacity: 0.5;
 }
