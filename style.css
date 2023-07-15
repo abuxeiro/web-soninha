@@ -18,14 +18,14 @@
 .navbar-brand{
     position: relative;
     top: 7rem;
-    left: -3rem;
+    left: -0.1rem;
 }
 .menu { 
     position: relative;
-    top: -3rem;
-    left: 7rem;
+    top: -1rem;
+    left: 0.2rem;
     font-family: 'Raleway', sans-serif;
-    font-size: 1.3rem;
+    font-size: 1rem;
     font-weight: 600;
 }
 
